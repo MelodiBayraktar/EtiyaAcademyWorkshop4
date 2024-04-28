@@ -1,6 +1,6 @@
 package Interfaces.generics;
 
-import Interfaces.Entities.Car;
+import Interfaces.entities.Car;
 import Interfaces.concretes.CarVehicle;
 
 public class Main {

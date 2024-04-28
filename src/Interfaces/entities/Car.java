@@ -1,4 +1,4 @@
-package Interfaces.Entities;
+package Interfaces.entities;
 
 public class Car {
     private String name;

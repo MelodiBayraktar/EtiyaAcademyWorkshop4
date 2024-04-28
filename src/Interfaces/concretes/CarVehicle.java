@@ -1,6 +1,6 @@
 package Interfaces.concretes;
 
-import Interfaces.Entities.Car;
+import Interfaces.entities.Car;
 import Interfaces.abstracts.BmwVehicle;
 import Interfaces.generics.BaseCarVehicle;
 
